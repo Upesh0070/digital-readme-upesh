@@ -1,22 +1,24 @@
-# 👋 Hey, I'm hey
+# 👋 Hey, I'm Upesh
 
-**randi**
+**Exploring AI x Storytelling | Building in Public**
 
-i want to have sex
+Technologist | Building bold, real, and AI-powered futures.
 
 ---
 
 ## 🔧 Skills
-`okay`
+`Python`, `AI`, `Prompt Engineering`, `Branding`, `Web Dev`
 
 ## 🚀 Projects
-- name them
+- AI File Assistant
+- Digital Menu for Restaurants
+- PublicLearning Lab
 
 ## 🌐 Socials
-[don't need](https://don't need)
+[Instagram](https://instagram.com/hotbpoison) | [Twitter](https://x.com/upeshinmars) | [YouTube](https://youtube.com/@techinahurry-A)
 
 ## 🎯 Current Goal
-> cls
+> Quitting job & building profitable digital products
 
 ---
 
